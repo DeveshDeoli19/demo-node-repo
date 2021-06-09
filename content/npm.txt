@@ -1,0 +1,7 @@
+While installing node we install👇
+
+NPM : Node Package manager
+
+👉: reuse our own code in other projects.
+👉: use code written by other developers.
+👉: share our code with other developers.
